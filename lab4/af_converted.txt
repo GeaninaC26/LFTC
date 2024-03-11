@@ -1,0 +1,12 @@
+0 1
+S A B C D K
+S
+S B D K
+S 0 A
+A 1 B
+A 1 K
+B 0 A
+B 1 C
+C 0 D
+C 0 K
+D 1 C
